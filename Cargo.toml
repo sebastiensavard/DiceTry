@@ -1,0 +1,6 @@
+[package]
+name = "DiceTry"
+version = "0.1.0"
+authors = ["sebastiensavard <ssavard@gmail.com>"]
+
+[dependencies]
